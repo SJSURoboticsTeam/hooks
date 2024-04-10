@@ -1,0 +1,7 @@
+---
+
+- id: word-blacklist-files
+  name: Blacklist Files
+  description: Prevent committing text containing certain words
+  entry: blacklist-file.sh
+  language: script
